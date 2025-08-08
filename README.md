@@ -17,21 +17,21 @@ User Profiles – Store preferences, liked recipes, and recently viewed dishes.
 Responsive UI – Elegant, mobile-friendly design with an adaptive navigation bar.
 Dataset Integration – Works with a large recipe dataset for better recommendations.
 
-## Tech Stack
-# Frontend
+# Tech Stack
+## Frontend
 HTML5, CSS3, JavaScript (Vanilla)
 Responsive design with modern styling
 Dynamic rendering for recipe cards and cuisines
 
-# Backend
+## Backend
 Python Flask (REST API endpoints)
 AI-based recommendation engine (content-based filtering + custom rules)
 Integration with large recipe datasets
 
-# Database
+## Database
 MongoDB Atlas (cloud-hosted, scalable)
 
-# AI/ML
+## AI/ML
 Ingredient and preference-based filtering
 AI text generation for unique recipes
 AI image generation for dishes
